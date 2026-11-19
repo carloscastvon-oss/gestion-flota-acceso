@@ -187,4 +187,6 @@ Capturas del sistema, en `docs/capturas/`:
 4. `04_panel_auditoria.jpg`: auditoría de RRSS-34, con reporte crítico y foto.
 5. `05_guardia_movil_autorizado.jpg`: vista móvil del guardia con acceso autorizado.
 
-Nota sobre los datos de demostración: para poblar el feed y la auditoría se cargaron 6 registros de prueba (entradas, salidas y reportes) con imágenes generadas, marcadas como "FOTO DE PRUEBA". El reporte de RRSS-34 es crítico (frenos con falla), por lo que ese vehículo quedó en Requiere Mantención. La cámara no se probó porque el navegador usado para las capturas la bloquea; el envío de fotos se verificó por subida directa a Storage.
+Nota sobre los datos de demostración: para poblar el feed y la auditoría se cargaron 6 registros de prueba (entradas, salidas y reportes) con imágenes generadas, marcadas como "FOTO DE PRUEBA". Una vez tomadas las capturas, esos registros y sus fotos se eliminaron de la base y los vehículos volvieron a su estado original, de modo que la base queda solo con los datos de la clase. La cámara no se probó con el navegador usado para las capturas porque la bloquea; el envío de fotos se verificó por subida directa a Storage.
+
+Versión en Word de este informe, con los diagramas como imágenes: `docs/Informe_Tecnico.docx`.

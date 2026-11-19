@@ -1,0 +1,3 @@
+﻿id,patente,rut_conductor,fecha_reporte,kilometraje_salida,nivel_combustible,presion_neumaticos,luces_operativas,observaciones,foto_evidencia_url
+1,ABCD-12,18.234.567-K,2026-11-12T12:58:31.088717+00:00,45123,75,True,True,prueba de registro,
+2,ABCD-12,18.234.567-K,2026-11-12T13:07:33.560328+00:00,45300,50,True,True,[CRÍTICO:FRENOS],
